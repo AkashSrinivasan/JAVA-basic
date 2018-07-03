@@ -1,0 +1,18 @@
+
+package basic;
+
+
+public class primeNumber {
+   public static void main(String[] args) {
+       int m = 7;
+       if(m%2 == 0)
+       {
+           System.out.println("it is not a prime");
+       }
+       else{
+           System.out.println("it is prime");
+       }
+   }
+    }
+    
+
