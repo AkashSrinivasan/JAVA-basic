@@ -3,7 +3,6 @@ package basic;
 
 import java.util.Scanner;
 
-
 public class primeNumber {
    public static void main(String[] args) {
        System.out.println("enter the name here");
