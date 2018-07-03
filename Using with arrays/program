@@ -1,34 +1,23 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package basic;
 
 
-/**
- *
- * @author JANUS TECHNOLOGIES
- */
+
 public class Basic {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
         
-//        int n;
-//        
-//        n = 5;
-//        int a[] = {40,60,70,80,10};
-//        for(int i = 0;i < n;i++)
-//        {
-//        if(a[i] < 50)
-//        {
-//            System.out.println("fail");
-//        }
-//        else{
+        int n;
+        
+        n = 5;
+        int a[] = {40,60,70,80,10};
+        for(int i = 0;i < n;i++)
+        {
+        if(a[i] < 50)
+        {
+            System.out.println("fail");
+        }
+        else{
 //            System.out.println("pass");
 //        }
 //            
