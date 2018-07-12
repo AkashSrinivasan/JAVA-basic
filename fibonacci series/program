@@ -17,6 +17,6 @@ public class Basic {
               b=c;
               System.out.print(c+" ");
           }
-   }
+  }
     
 }
