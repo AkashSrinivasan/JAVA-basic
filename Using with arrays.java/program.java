@@ -7,7 +7,6 @@ public class Basic {
     public static void main(String[] args) {
         
         int n;
-        
         n = 5;
         int a[] = {40,60,70,80,10};
         for(int i = 0;i < n;i++)
