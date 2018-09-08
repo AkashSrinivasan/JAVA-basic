@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class primeNumber {
    public static void main(String[] args) {
-       System.out.println("enter the name here");
+       System.out.println("enter the number here");
        Scanner p=new Scanner(System.in);
      int  m = p.nextInt();
        
